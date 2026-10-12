@@ -33,8 +33,6 @@ C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDnd
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\BackendDndBoek.AssemblyInfo.cs
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\BackendDndBoek.csproj.CoreCompileInputs.cache
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\BackendDndBoek.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\BackendDndBoek.RazorAssemblyInfo.cache
-C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\BackendDndBoek.RazorAssemblyInfo.cs
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\BackendDndBoek.sourcelink.json
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\BackendDndBoek.dll
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\refint\BackendDndBoek.dll
@@ -54,8 +52,6 @@ C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDnd
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendDndBoek.props
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendDndBoek.props
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\scopedcss\bundle\BackendDndBoek.styles.css
-C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\scopedcss\projectbundle\BackendDndBoek.bundle.scp.css
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\BackendDndBoek.genruntimeconfig.cache
 C:\Users\jaatj\OneDrive\Bureaublad\S3\Individueel\Code\BackendDndBoek\BackendDndBoek\obj\Debug\net8.0\ref\BackendDndBoek.dll

@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BackendDndBoek.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BackendDndBoek.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

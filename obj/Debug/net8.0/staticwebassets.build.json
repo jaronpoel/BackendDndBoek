@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Aqa3Yym6bVEKLRs+o1kEv6YzodRgja3sNR3A7japm8w=",
+  "Hash": "D8xfx4raAPBzkZDwjBY1YpzNYCQFBSdKVOChtJfiu6o=",
   "Source": "BackendDndBoek",
   "BasePath": "_content/BackendDndBoek",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BackendDndBoek.styles.css",
-      "SourceId": "BackendDndBoek",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/BackendDndBoek",
-      "RelativePath": "BackendDndBoek.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BackendDndBoek.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BackendDndBoek.bundle.scp.css",
-      "SourceId": "BackendDndBoek",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/BackendDndBoek",
-      "RelativePath": "BackendDndBoek.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BackendDndBoek.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\jaatj\\OneDrive\\Bureaublad\\S3\\Individueel\\Code\\BackendDndBoek\\BackendDndBoek\\wwwroot\\css\\site.css",
       "SourceId": "BackendDndBoek",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackendDndBoek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22edb9055aeb16137584486644b88292abab917a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45f5407043cb59ad9bb567dc6c4d0abfae4c794b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackendDndBoek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackendDndBoek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

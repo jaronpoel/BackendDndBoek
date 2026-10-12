@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace BackendDndBoek.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/characters")]
 public class CharacterController : ControllerBase
 {
     private readonly ICharacterService _characterService;
